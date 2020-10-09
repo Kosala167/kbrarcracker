@@ -1,0 +1,2 @@
+# kbrarcracker
+This is compressed python program made for crack winrar password easy .program contain unrar content. this program support for windows user .program contain rarCrack.exe .run this file and follow instructions.some time program may overflow computer memory. this will fixed soon.if any memory problem keep last password attampt in notepad and close program run again and again with last attemp password.thank you !
